@@ -15,7 +15,7 @@ Fixed
 
   * make sure you have the shebang line(#!) with the tack/dash to ensure that the script will run without any errors.
   ```
-  '#!/bin/bash -
+  #!/bin/bash -
   
   # This can be any of your scripts.
   python /root/StartScript/start.py &
